@@ -8,4 +8,5 @@ def func1():
     print("Func 1")
 
 def func2():
-    print("Func 2")
+    print("Func 2 changed")
+    print("More func2")
