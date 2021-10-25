@@ -10,6 +10,7 @@ def func1():
     print(rep1)
     print(rep2)
     print("rep 2 attempt 2")
+    print("rep 1")
 
 def func2():
     print("Func 2 changed")
