@@ -15,3 +15,6 @@ def func1():
 def func2():
     print("Func 2 changed")
     print("More func2")
+
+def func3():
+    print("func3")
